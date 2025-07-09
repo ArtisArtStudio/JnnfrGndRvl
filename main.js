@@ -39,10 +39,10 @@ function shuffleArray(array) {
      */
 
     var color1 = '#FAADD2FF';
-    var color2 = '#5194f8';
+    var color2 = '#7FB1ED';
     var color3 ='#969696';
     var colortxt1 = '#ff0b9a';
-    var colortxt2= '#7FB1ED';
+    var colortxt2='#0c6de4';
     var colortxt3= '#000000';
     //Select the background color
     var color =color2;
